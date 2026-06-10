@@ -1,10 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-10 07:18:16,http://198.204.240.250:82/live/cctv1.m3u8
+2026-06-10 20:57:37,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-8,http://101.66.195.125:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-9,http://101.66.195.125:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 💰央视付费频道,#genre#
@@ -22,7 +20,6 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://101.66.195.125:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
